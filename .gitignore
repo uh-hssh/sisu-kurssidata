@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/*
+*.json
+data/*
+query-terms/*
+*.xlsx
+*.docx
+course_data-old.ipynb
